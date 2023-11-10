@@ -10,7 +10,7 @@ This was a coding challenge presented by [Dr. Angela Yu](https://www.udemy.com/u
 
 ## Challenge Instructions
 
-Use BootStrap and provided content to create a Start-Up website.
+Use BootStrap and provided content (see bread-crumbs.md) to create a Start-Up website.
 
 ## About
 
