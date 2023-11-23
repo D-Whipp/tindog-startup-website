@@ -2,7 +2,7 @@
 
 ## Frontend Challenge
 
-![app-image]()
+![app-image](./images/tindog-app-image.png)
 
 ## Description
 
